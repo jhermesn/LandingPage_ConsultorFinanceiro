@@ -1,0 +1,1 @@
+Landing page simples para um consultor financeiro fictício, construída em 3 horas para a prova de Programação Web do 2° semestre do curso de Bacharelado em Engenharia de Software na Universidade do Estado do Pará.
